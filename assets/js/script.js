@@ -60,7 +60,7 @@ $(document).ready(function () {
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Full-Stack Developer","frontend development", "backend development", "web development"],
+    strings: ["Full-Stack Developer","frontend development", "backend development", "web development", "MERN Stack Developer"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
